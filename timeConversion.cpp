@@ -12,5 +12,6 @@ int main()
     cout << setw(2) << setfill('0') << hh << ":" 
          << setw(2) << setfill('0') << mm << ":" 
          << setw(2) << setfill('0') << ss << endl;
+    return 0;
    
 }
