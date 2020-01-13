@@ -1,5 +1,6 @@
 #include<iostream>
 #include<stack>
+#include<utility>
 using namespace std;
 void display(	stack <int> st)
 {
