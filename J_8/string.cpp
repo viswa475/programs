@@ -1,3 +1,4 @@
+//Program for Equating two strings 
 #include<iostream>
 using namespace std;
 int main() {
