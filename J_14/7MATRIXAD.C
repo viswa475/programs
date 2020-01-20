@@ -3,7 +3,6 @@
 int main()
 {
 int i,j,m,n,a[15][15],b[15][15],c[15][15];
-
 printf("enter the order of the matrix\n");
 scanf("%d",&m);
 scanf("%d",&n);
