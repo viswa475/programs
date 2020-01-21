@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+#include<math.h>
 void dummy(){
 	float a,*a1;
 	*a1=a;
