@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<conio.h>
 #define m 100
 void create (int stak[]);
 void view (int stak[]);
